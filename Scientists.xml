@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Scientists>
+  <Scientist
+          Name = "Kolin Dima"
+          Faculty= "FACULTY OF BIOLOGY"
+          Department = "Bio"
+          Laboratory = "Bio lab"
+          Position= "Assistant"
+          Activity= "20034 - present">
+  </Scientist>
+  <Scientist
+          Name = "Grey Vadim"
+          Faculty= "FACULTY OF Git"
+          Department = "Git"
+          Laboratory = "Git Laboratory"
+          Position= "Professor"
+          Activity= "2034 - present">
+  </Scientist>
+  <Scientist
+          Name = "Ivanov Jo"
+          Faculty= "FACULTY OF Flowers"
+          Department = "Flowers"
+          Laboratory = "Flowers"
+          Position= "Professor"
+          Activity= "2005 - present">
+  </Scientist>
+</Scientists>

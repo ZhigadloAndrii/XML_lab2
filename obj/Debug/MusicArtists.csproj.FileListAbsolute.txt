@@ -1,0 +1,10 @@
+D:\Nika\MusicArtists\bin\Debug\MusicArtists.exe.config
+D:\Nika\MusicArtists\bin\Debug\MusicArtists.exe
+D:\Nika\MusicArtists\bin\Debug\MusicArtists.pdb
+D:\Nika\MusicArtists\obj\Debug\MusicArtists.csproj.AssemblyReference.cache
+D:\Nika\MusicArtists\obj\Debug\MusicArtists.Properties.Resources.resources
+D:\Nika\MusicArtists\obj\Debug\MusicArtists.csproj.GenerateResource.cache
+D:\Nika\MusicArtists\obj\Debug\MusicArtists.csproj.CoreCompileInputs.cache
+D:\Nika\MusicArtists\obj\Debug\MusicArtists.exe
+D:\Nika\MusicArtists\obj\Debug\MusicArtists.pdb
+D:\Nika\MusicArtists\obj\Debug\Scientists.Scientists.resources
